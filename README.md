@@ -1,15 +1,22 @@
-# request
+# Sistema CRUD/IAM con Express.js
 
-To install dependencies:
+Este proyecto es un sistema básico de CRUD (Create, Read, Update, Delete) e IAM (Identity and Access Management) implementado con Express.js. Utiliza archivos JSON para almacenar datos y Bootstrap 5.3 para el diseño de la interfaz de usuario.
 
-```bash
-bun install
-```
+## Características
 
-To run:
+- Gestión de usuarios: Crear, leer, actualizar y eliminar usuarios.
+- Interfaz de usuario amigable con Bootstrap 5.3.
+- Almacenamiento de datos en archivo JSON.
 
-```bash
-bun run index.ts
-```
+## Tecnologías Utilizadas
 
-This project was created using `bun init` in bun v1.0.16. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+- Node.js
+- Express.js
+- EJS para plantillas
+- Bootstrap 5.3 para el diseño frontend
+- JSON para el almacenamiento de datos
+
+## Estructura del Proyecto
+
+Descripción de la estructura de directorios del proyecto:
+
